@@ -8,7 +8,7 @@ const markMass = 78;
 let markBMI = markMass / (markHeight * markHeight);
 // john data
 
-const johnHeight = 1.95;
+const johnHeight = 1.98;
 const johnMass = 92;
 
 let johnBMI = johnMass / (johnHeight * johnHeight);
